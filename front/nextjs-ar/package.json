@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "daisyui": "latest",
     "next": "14.0.4",
     "react": "^18",
     "react-camera-pro": "^1.3.0",
